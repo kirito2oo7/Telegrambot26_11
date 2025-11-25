@@ -1,0 +1,8 @@
+﻿certifi
+charset-normalizer
+idna
+psycopg2-binary
+pyTelegramBotAPI
+python-dotenv
+requests
+
